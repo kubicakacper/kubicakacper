@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kubicakacper
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning PySpark
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Engineering and Database Administration
+- 🌱 I’m currently learning Db2 for LUW
 - 📫 How to reach me: kubicakacper@gmail.com
 
 <!---
